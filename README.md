@@ -41,7 +41,7 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Ritikdangi)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ritikdangi)  
-📧 ritik.dangi.cse@gmail.com
+![Email](https://img.shields.io/badge/-ritik.dangi.cse@gmail.com-D14836?logo=gmail&logoColor=white)
 
 ---
 
