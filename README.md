@@ -23,6 +23,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 
 **Frameworks & Tools:**  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
@@ -47,8 +49,4 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Ritikdangi&theme=algolia)
 
----
 
-
-
----
