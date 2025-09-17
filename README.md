@@ -16,9 +16,11 @@
 ### 🧰 Tech Stack
 
 **Languages:**  
+<br>
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+</br>
 
 **Frameworks & Tools:**  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  
