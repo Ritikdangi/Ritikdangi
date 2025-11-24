@@ -66,4 +66,8 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Ritikdangi&theme=algolia)
 
+### 📊 GitHub Contribution Graph
+
+![Ritik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ritikdangi&theme=react-dark&hide_border=true&area=true)
+
 
