@@ -66,12 +66,17 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Ritikdangi&theme=algolia)
 
-### 📈 GitHub Stats
-
-![Ritik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritikdangi&show_icons=true&theme=algolia&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikdangi&layout=compact&theme=algolia&hide_border=true)
+### 📊 GitHub Stats & Languages
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ritikdangi&show_icons=true&theme=algolia&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikdangi&layout=compact&theme=algolia&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ritikdangi&theme=react-dark&hide_border=true&area=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritikdangi&theme=algolia&hide_border=true)
