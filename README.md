@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/badge/-ritik.dangi.cse@gmail.com-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
----
+
 
 ### 🏆 GitHub Trophies
 
